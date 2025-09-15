@@ -1,0 +1,32 @@
+{
+  "name": "second_brain",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000e\u0000c\u0000o\u0000n\u0000d\u0000_\u0000B\u0000r\u0000a\u0000i\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMikeKaisen/Second_Brain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/TheMikeKaisen/Second_Brain/issues"
+  },
+  "homepage": "https://github.com/TheMikeKaisen/Second_Brain#readme",
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.10",
+    "jsonwebtoken": "^9.0.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.3",
+    "@types/mongoose": "^5.11.96",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  }
+}
